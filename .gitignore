@@ -91,3 +91,6 @@ ENV/
 .DS_Store
 
 data/
+# Ignore the "graphs" output directory
+examples/graphs/
+
